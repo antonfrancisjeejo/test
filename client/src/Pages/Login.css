@@ -1,0 +1,30 @@
+.login {
+  text-align: center;
+}
+
+.login__form > input {
+  border: none;
+  outline: none;
+  background-color: #ccc;
+  padding: 10px 5px;
+  width: 300px;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.login__form > button {
+  background-color: rgb(94, 182, 6);
+  border: none;
+  outline: none;
+  color: white;
+  font-size: 15px;
+  padding: 10px 20px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.login > a {
+  text-decoration: none;
+  color: blue;
+  font-size: 14px;
+}
